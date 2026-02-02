@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varunprasad V</h1>
-<h3 align="center">A passionate frontend developer from India <br>"Dream in code, build with passion—the web is your playground. 🚀"</h3>
-<img src="https://github.com/user-attachments/assets/ad49b27e-9c72-4008-9368-4731d8afb07c" alt="Coding pic" width="400" align="right">
+
 <h1 align="center">Hey there 👋, I'm <span style="color:#0e75b6">Varunprasad V</span></h1>
 <h3 align="center">
 🚀 Frontend Developer | Java Enthusiast | UI Craftsman <br>
