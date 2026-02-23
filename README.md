@@ -47,6 +47,16 @@
 
 ---
 
+### 🧠 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/OH6I3R4UyZ/">
+    <img src="https://leetcard.jacoblin.cool/OH6I3R4UyZ?theme=tokyonight&font=Baloo&ext=contest" />
+  </a>
+</p>
+
+---
+
 <p align="center">
 ✨ <strong>Code. Learn. Build. Repeat.</strong> ✨
 </p>
