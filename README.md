@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+India;Java+%26+React+Developer;Building+Interactive+Web+Apps;Always+Learning+New+Things+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunvp007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-</p>
-
 ---
 
 <img src="https://github.com/user-attachments/assets/ad49b27e-9c72-4008-9368-4731d8afb07c"
@@ -47,35 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunvp007&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvp007&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunvp007&theme=tokyonight"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-
-<a href="mailto:varunprasadofficial23@gmail.com">
-<img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/varunvp007">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
